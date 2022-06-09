@@ -1,6 +1,5 @@
 # fx.ResetScore
-After entering the command !rs resets the player's statistics
-ONLY CS:GO!
+After entering the command !rs resets the player's statistics<br>ONLY CS:GO!
 
 ### Commands:
 - !rs
