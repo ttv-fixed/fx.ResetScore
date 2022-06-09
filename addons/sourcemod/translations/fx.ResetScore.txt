@@ -1,0 +1,34 @@
+// Translations in languages other than Polish have been translated by the website: bab.la
+// Respect the author's work and leave the [fx. ResetScore] in plugin messages. Thank you! <3
+
+// Available colors: [multicolors.inc]:
+// {default}
+// {darkred}
+// {green}
+// {lightgreen}
+// {red}
+// {blue}
+// {olive}
+// {lime}
+// {lightred}
+// {purple}
+// {grey}
+// {yellow}
+// {orange}
+// {bluegrey}
+// {lightblue}
+// {darkblue}
+// {grey2}
+// {orchid}
+// {lightred2}
+
+"Phrases" // If you change it, the plugin will stop working!
+{
+  "fxResetScore" // If you change it, the plugin will stop working!
+  {
+    "pl"    "{default}[{darkred}fx.ResetScore{default}] {orange}➜ {default}%s właśnie zresetował swoje statystyki!"
+    "en"    "{default}[{darkred}fx.ResetScore{default}] {orange}➜ {default}%s just reset his stats!"
+    "de"    "{default}[{darkred}fx.ResetScore{default}] {orange}➜ {default}%s hat gerade seine Statistiken zurückgesetzt!"
+    "es"    "{default}[{darkred}fx.ResetScore{default}] {orange}➜ {default}%s simplemente restablece sus estadísticas!"
+  }
+}
