@@ -22,6 +22,8 @@
 // {orchid}
 // {lightred2}
 
+// The prefix %s enters the nickname of the player who reset the statistics
+
 "Phrases" // If you change it, the plugin will stop working!
 {
   "fxResetScore" // If you change it, the plugin will stop working!
