@@ -1,5 +1,7 @@
 # fx.ResetScore
-After entering the command !rs resets the player's statistics<br>ONLY CS:GO!
+After entering the command !rs resets the player's statistics
+<br>
+This plugin only supports CS:GO servers
 
 ### Commands:
 - !rs
