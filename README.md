@@ -5,5 +5,5 @@ After entering the command !rs resets the player's statistics\
 - !rs
 - !resetscore
 
-### Links:
+### Includes:
 - [github.com/Bara/Multi-Colors](https://github.com/Bara/Multi-Colors)
